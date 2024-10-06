@@ -1,0 +1,3 @@
+C:/Users/SAHLI Bilel/OneDrive - HESSO/PRG/prg1-b-04-nbre-premiers-SAHLIBilel/cmake-build-debug/CMakeFiles/prg1-b-04-nbre-premiers-SAHLIBilel.dir
+C:/Users/SAHLI Bilel/OneDrive - HESSO/PRG/prg1-b-04-nbre-premiers-SAHLIBilel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SAHLI Bilel/OneDrive - HESSO/PRG/prg1-b-04-nbre-premiers-SAHLIBilel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
